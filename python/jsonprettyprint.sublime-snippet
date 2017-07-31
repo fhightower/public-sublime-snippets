@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1:import json}
+parsed = json.loads(${2:results})
+print(json.dumps(parsed, indent=4))
+]]></content>
+    <tabTrigger>jsonprettyprint</tabTrigger>
+    <scope>source.python</scope>
+    <description>json pretty print</description>
+</snippet>

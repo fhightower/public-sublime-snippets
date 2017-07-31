@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+import os
+for path, dirs, files in os.walk("."):
+    print(path)
+    print(dirs)
+    print(files)
+
+]]></content>
+    <tabTrigger>oswalk</tabTrigger>
+    <scope>source.python</scope>
+    <description>os.walk</description>
+</snippet>

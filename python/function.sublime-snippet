@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+def ${1:function_name}(${2}):
+    """${3}."""
+    ${4}
+]]></content>
+    <tabTrigger>function</tabTrigger>
+    <scope>source.python</scope>
+    <description>Create a function</description>
+</snippet>

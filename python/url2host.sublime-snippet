@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+from urllib.parse import urlparse
+url = 'http://www.bad.com/test.php'
+o = urlparse(url)
+print(o.netloc)
+]]></content>
+    <tabTrigger>url2host</tabTrigger>
+    <scope>source.python</scope>
+    <description>Get the host from a url (python3)</description>
+</snippet>

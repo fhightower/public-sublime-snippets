@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+/* global window, document, console, $, ${1} */
+]]></content>
+    <tabTrigger>global</tabTrigger>
+    <scope>source.js</scope>
+    <description>add global exclusions for js lint</description>
+</snippet>

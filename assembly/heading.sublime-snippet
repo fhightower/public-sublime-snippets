@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+;Written by Floyd Hightower
+;${1:description of code here}
+
+[SECTION .text]
+BITS 32
+
+
+]]></content>
+    <description>Heading for assembly files</description>
+    <scope>source.assembly</scope>
+    <tabTrigger>heading</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+# TODO: ${1} (3)
+]]></content>
+    <tabTrigger>tdlow</tabTrigger>
+    <scope>source.python</scope>
+    <description>Low priority todo</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+for i in ${1:incoming_list}:
+    if i in ${2:dictionary}.keys():
+        ${2:dictionary}[i] = ${2:dictionary}[i] + 1
+    else:
+        ${2:dictionary}[i] = 1
+]]></content>
+    <tabTrigger>dictionarycount</tabTrigger>
+    <scope>source.python</scope>
+    <description>Count things using a dictionary</description>
+</snippet>

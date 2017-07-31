@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+style="border: 1px black; border-style: solid;"
+]]></content>
+    <tabTrigger>testborder</tabTrigger>
+    <scope>text.html</scope>
+    <description>Create a border around an html element for testing</description>
+</snippet>

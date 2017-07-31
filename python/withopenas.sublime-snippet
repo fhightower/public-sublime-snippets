@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+with open(${1}, '${2}') as ${3:f}:
+    ${4:file_text = f.read()}
+]]></content>
+    <tabTrigger>wo</tabTrigger>
+    <scope>source.python</scope>
+    <description>With open as</description>
+</snippet>

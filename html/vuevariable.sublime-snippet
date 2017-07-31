@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+{{ ${1:} }
+]]></content>
+    <tabTrigger>{</tabTrigger>
+    <scope>text.html</scope>
+    <description>Add a vue variable</description>
+</snippet>

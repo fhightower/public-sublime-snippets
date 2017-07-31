@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Written by Floyd Hightower on ${1:}
+# Licensed under the ${2:MIT} License
+
+
+]]></content>
+    <description>Heading for python scripts</description>
+    <tabTrigger>heading</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

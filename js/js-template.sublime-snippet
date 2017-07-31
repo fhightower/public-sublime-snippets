@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/* global ThreatConnect, getParameterByName, indicatorHelper, TYPE, \$, document, console */
+"use strict";
+
+var ${1:NAMESPACE} = ${1:NAMESPACE} || {${2}};
+
+${3}
+]]></content>
+    
+    <tabTrigger>jstemplate</tabTrigger>
+        <scope>source.js</scope>
+    <description>starting template for js file</description>
+</snippet>

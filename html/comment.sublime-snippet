@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<!-- ${1:} -->
+]]></content>
+    <tabTrigger>comment</tabTrigger>
+    <scope>text.html</scope>
+    <description>add a comment</description>
+</snippet>

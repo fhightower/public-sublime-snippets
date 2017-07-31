@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<!-- TODO: ${1} (1) -->
+]]></content>
+    <tabTrigger>tdhigh</tabTrigger>
+    <scope>text.html</scope>
+    <description>High priority todo</description>
+</snippet>

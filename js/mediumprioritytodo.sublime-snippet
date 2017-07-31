@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+// TODO: ${1} (2)
+]]></content>
+    <tabTrigger>tdmedium</tabTrigger>
+    <scope>source.js</scope>
+    <description>Medium priority todo</description>
+</snippet>

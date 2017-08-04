@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 with open(${1}, '${2}') as ${3:f}:
-    ${4:file_text = f.read()}
+    ${4:file_text = ${3:f}.read()}
 ]]></content>
     <tabTrigger>wo</tabTrigger>
     <scope>source.python</scope>

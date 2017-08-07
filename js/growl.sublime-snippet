@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$.jGrowl('${1}', {${2}: '${3}'});
+]]></content>
+    <description>jgrowl</description>
+    <tabTrigger>growl</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

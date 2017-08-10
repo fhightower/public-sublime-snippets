@@ -3,6 +3,6 @@
 \$.jGrowl('${1}', {${2}: '${3}'});
 ]]></content>
     <description>jgrowl</description>
-    <tabTrigger>growl</tabTrigger>
+    <tabTrigger>jgrowl</tabTrigger>
     <scope>source.js</scope>
 </snippet>

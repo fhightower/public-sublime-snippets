@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-/* global ThreatConnect, getParameterByName, indicatorHelper, TYPE, \$, document, console */
+/* global \$, document, console */
 "use strict";
 
 var ${1:NAMESPACE} = ${1:NAMESPACE} || {${2}};

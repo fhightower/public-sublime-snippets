@@ -2,8 +2,7 @@
     <content><![CDATA[
 // TODO: ${1}
 ]]></content>
-    
     <tabTrigger>todo</tabTrigger>
-        <scope>source.js</scope>
+    <scope>source.js, source.ts</scope>
     <description>Add a todo</description>
 </snippet>

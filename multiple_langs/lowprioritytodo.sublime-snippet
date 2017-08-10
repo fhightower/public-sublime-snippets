@@ -3,6 +3,6 @@
 // TODO: ${1} (3)
 ]]></content>
     <tabTrigger>tdlow</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.ts</scope>
     <description>Low priority todo</description>
 </snippet>

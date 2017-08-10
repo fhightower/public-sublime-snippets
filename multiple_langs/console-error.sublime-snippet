@@ -3,6 +3,6 @@
 console.error("${1:}", ${2:});
 ]]></content>
     <tabTrigger>cleg</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, text.html, source.ts</scope>
     <description>console.error</description>
 </snippet>

@@ -3,6 +3,6 @@
 console.log("${1:}", ${2:});
 ]]></content>
     <tabTrigger>clog</tabTrigger>
-        <scope>source.js, text.html</scope>
+    <scope>source.js, text.html, source.ts</scope>
     <description>console.log</description>
 </snippet>

@@ -3,6 +3,6 @@
 console.warn("${1:}", ${2:});
 ]]></content>
     <tabTrigger>claw</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, text.html, source.ts</scope>
     <description>console.warn</description>
 </snippet>

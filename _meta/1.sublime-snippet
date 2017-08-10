@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$\{${2:1}:${1:}\}
+]]></content>
+	<description>Create tab target</description>
+    <tabTrigger>1</tabTrigger>
+    <scope></scope>
+</snippet>

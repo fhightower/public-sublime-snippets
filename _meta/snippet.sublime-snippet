@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<snippet>
+    <content><![CDATA[
+${1:}
+]]$NOT_DEFINED></content>
+    <tabTrigger>${2:}</tabTrigger>
+    <scope>${3:}</scope>
+    <description>${4:}</description>
+</snippet>
+]]></content>
+    <tabTrigger>qualitysnippet</tabTrigger>
+    <scope></scope>
+    <description>A snippet for creating quality snippets</description>
+</snippet>

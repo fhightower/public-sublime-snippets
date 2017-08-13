@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+"""${1}."""
+]]></content>
+    <description>Dostring comment</description>
+    <tabTrigger>komment</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+today = datetime.datetime.today()
+delta = datetime.timedelta(${1:days} = 7)
+previous_week_datestamp = (today - delta).isoformat() + 'Z'
+]]></content>
+    <tabTrigger>timedelta</tabTrigger>
+    <scope>source.python</scope>
+    <description>Time/Date Delta</description>
+</snippet>

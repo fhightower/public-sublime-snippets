@@ -3,6 +3,6 @@
 /* ${1}. */
 ]]></content>
     <tabTrigger>komment</tabTrigger>
-    <scope>source.js, source.css</scope>
-    <description>comment for a js/css</description>
+    <scope>source.js, source.css, source.ts</scope>
+    <description>comment for a js/css/ts</description>
 </snippet>

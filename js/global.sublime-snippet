@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-/* global window, document, console, $, ${1} */
+/* global window, document, console, \$, ${1} */
 ]]></content>
     <tabTrigger>global</tabTrigger>
     <scope>source.js</scope>

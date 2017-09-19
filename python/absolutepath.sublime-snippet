@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+os.path.abspath(os.path.join(os.path.dirname(__file__), "${1:.}"))
+]]></content>
+    <tabTrigger>absolutepath</tabTrigger>
+    <scope>source.python</scope>
+    <description>Enter an absolute path</description>
+</snippet>

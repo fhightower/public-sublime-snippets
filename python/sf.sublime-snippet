@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+"${1:\{\}}".format(${2:})
+]]></content>
+    <tabTrigger>sf</tabTrigger>
+    <scope>source.python</scope>
+    <description>String with formatting</description>
+</snippet>

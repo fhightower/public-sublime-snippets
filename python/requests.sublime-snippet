@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+response = requests.get(${2:"${1:}"})
+
+if response.ok:
+    ${3:return response}
+else:
+    ${4:}print("{} error retrieving content from {}: {}".format(response.status_code, link, response.text))
+]]></content>
+    <tabTrigger>requests</tabTrigger>
+    <scope>source.python</scope>
+    <description>Simple requests template</description>
+</snippet>

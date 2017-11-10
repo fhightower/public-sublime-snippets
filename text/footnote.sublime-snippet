@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<sup>[${1:1}](#footnote${1:1})</sup>
+
+<a id="footnote${1:1}">${1:1}. </a>${2:Insert footnote contents here}
+]]></content>
+    <tabTrigger>foo</tabTrigger>
+    <scope>text</scope>
+    <description>Footnote for markdown</description>
+</snippet>

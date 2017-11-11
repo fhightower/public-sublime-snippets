@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-print("${1:\{\}}".format(${2:}))
+print("${1:} \{\}".format(${2:}))
 ]]></content>
     <tabTrigger>pf</tabTrigger>
     <scope>source.python</scope>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:deduplictedList} = Array.from(new Set(${2:undeduplicatedList}));
+]]></content>
+    <tabTrigger>deduplicate</tabTrigger>
+    <scope>source.js</scope>
+    <description>Deduplicate a list</description>
+</snippet>

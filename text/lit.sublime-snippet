@@ -3,6 +3,6 @@
 `${1:}` ${2:}
 ]]></content>
     <tabTrigger>lit</tabTrigger>
-    <scope>text</scope>
+    <scope>text.html.markdown</scope>
     <description>Code literal</description>
 </snippet>

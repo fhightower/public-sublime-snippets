@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<label><input type="radio" name="${1:action}" checked>${2:a}</label>
+<label><input type="radio" name="${1:action}">${3:b}</label>
+]]></content>
+    <tabTrigger>radiobuttons</tabTrigger>
+    <scope>text.html</scope>
+    <description>Radio buttons</description>
+</snippet>

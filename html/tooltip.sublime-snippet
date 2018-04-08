@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover='false' tabindex=1 title="${1}">${2}</span>
+<span data-tooltip aria-haspopup="true" class="has-tip" data-disable-hover='false' tabindex=1 title="${2}">${1}</span>
 ]]></content>
     <tabTrigger>tooltip</tabTrigger>
     <scope>text.html</scope>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+var confirmation = confirm("${1:}");
+if (confirmation) {
+    ${2:}
+} else {
+    ${3:}
+}
+]]></content>
+    <tabTrigger>confirmation</tabTrigger>
+    <scope>source.js</scope>
+    <description>Confirmation</description>
+</snippet>

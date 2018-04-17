@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-var _this = this;
+let _this = this;
 ]]></content>
     <tabTrigger>_this</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.ts</scope>
     <description>redefinition of this</description>
 </snippet>

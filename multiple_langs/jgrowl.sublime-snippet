@@ -4,5 +4,5 @@
 ]]></content>
     <description>jgrowl</description>
     <tabTrigger>jgrowl</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.ts</scope>
 </snippet>

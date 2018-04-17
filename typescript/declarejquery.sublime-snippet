@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+declare var \$:any;
+]]></content>
+    <tabTrigger>declarejquery</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>

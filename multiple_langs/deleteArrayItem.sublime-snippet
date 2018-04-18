@@ -3,6 +3,6 @@
 ${1:array}.splice(${2:i}, 1);
 ]]></content>
     <tabTrigger>deleteArrayItem</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.ts</scope>
     <description>Delete an item from an array</description>
 </snippet>

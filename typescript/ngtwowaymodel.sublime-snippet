@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+[(ngModel)]="${1:}"
+]]></content>
+    <tabTrigger>ngtwowaymodel</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

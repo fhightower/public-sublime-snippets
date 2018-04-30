@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:}: string = '';
+]]></content>
+    <tabTrigger>ngstring</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>

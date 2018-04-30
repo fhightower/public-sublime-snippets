@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+private ${1:}(${2:}) {
+    ${3:}
+}
+]]></content>
+    <tabTrigger>pfun</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>

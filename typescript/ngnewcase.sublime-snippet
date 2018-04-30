@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+case ${1:}: {
+    ${2:}
+    break;
+}
+]]></content>
+    <tabTrigger>ngcasenew</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>

@@ -8,6 +8,6 @@ if (confirmation) {
 }
 ]]></content>
     <tabTrigger>confirmation</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.js, source.ts</scope>
     <description>Confirmation</description>
 </snippet>

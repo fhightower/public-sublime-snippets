@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+with open(${1:file_path}, 'rb') as f:
+    file_text = f.read()
+    file_details['md5'] = hashlib.md5(file_text).hexdigest()
+    file_details['sha1'] = hashlib.sha1(file_text).hexdigest()
+    file_details['sha256'] = hashlib.sha256(file_text).hexdigest()
+]]></content>
+    <description>Get the hash fo a file</description>
+    <tabTrigger>hashOfFile</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

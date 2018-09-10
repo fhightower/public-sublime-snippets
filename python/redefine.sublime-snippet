@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1} = ${1}
+]]></content>
+    <tabTrigger>redefine</tabTrigger>
+    <scope>source.python</scope>
+    <description>Redefine a variable</description>
+</snippet>

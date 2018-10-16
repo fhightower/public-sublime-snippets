@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<aside class="marginnote">
+  <span class="noteNumber">${1:1}</span> - ${2}
+</aside>
+]]></content>
+    <tabTrigger>marginnote</tabTrigger>
+    <scope>text.html.markdown</scope>
+    <description>Margin note</description>
+</snippet>

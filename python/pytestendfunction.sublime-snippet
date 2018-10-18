@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+@pytest.fixture(scope="${1:session}", autouse=True)
+def ${2:cleanup}(request):
+    """${3:Cleanup the testing directory once we are finished}."""
+    def ${4:remove_test_dir}():
+        ${5}
+    request.addfinalizer(${4:remove_test_dir})
+]]></content>
+    <tabTrigger>pytestendfunction</tabTrigger>
+    <scope>source.python</scope>
+    <description>Run a function at the end of a pytest session</description>
+</snippet>

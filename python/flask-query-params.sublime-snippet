@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+request.args.get('${1:}')
+]]></content>
+    <tabTrigger>flaskqueryparams</tabTrigger>
+    <scope>source.python</scope>
+    <description>Flask Query Parameters</description>
+</snippet>

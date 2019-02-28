@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+def test_${1:function_name}(${2}):
+    ${3}
+]]></content>
+    <tabTrigger>tfun</tabTrigger>
+    <scope>source.python</scope>
+    <description>Create a test function</description>
+</snippet>

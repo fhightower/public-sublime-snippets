@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${2}<sup>${1}</sup>${3}
+]]></content>
+    <tabTrigger>note</tabTrigger>
+    <scope>text</scope>
+    <description>Add markdown note</description>
+</snippet>
